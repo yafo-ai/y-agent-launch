@@ -1,5 +1,5 @@
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/406231ca-550e-456b-9b1c-f38a94998d99" />
 
+![](y_agent_launch.webp)
 # Y-Agent-launch启动器使用说明
 
 启动器内部集成了Y-Agent和Y-Squeeze
